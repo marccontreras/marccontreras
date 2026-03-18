@@ -6,7 +6,7 @@ Backend Engineer focused on building scalable microservices and high-performance
 
 ## 👨‍💻 About Me
 
-Backend Engineer with 3+ years of experience designing, building and optimizing production backend systems in fintech and enterprise environments.
+Backend Engineer with 4+ years of experience designing, building and optimizing production backend systems in fintech and enterprise environments.
 
 I specialize in:
 
